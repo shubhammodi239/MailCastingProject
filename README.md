@@ -77,6 +77,8 @@ Welcome Page
 ![image](https://user-images.githubusercontent.com/64597962/80729658-30163000-8b26-11ea-98c7-767d21f987f8.png) 
 
 
+![image](https://user-images.githubusercontent.com/64597962/80730003-a450d380-8b26-11ea-918f-a82e0b7803af.png)
+
 
 
 
@@ -86,6 +88,10 @@ On successful log in:-
 ![image](https://user-images.githubusercontent.com/64597962/80729691-3f957900-8b26-11ea-8243-46f2e9a807b6.png) 
 
 
+![image](https://user-images.githubusercontent.com/64597962/80730055-b7fc3a00-8b26-11ea-9a2d-d69259da13a6.png)
+
+
+![image](https://user-images.githubusercontent.com/64597962/80730087-c4809280-8b26-11ea-80c0-4ad464a2ddda.png)
 
 
 
@@ -95,6 +101,13 @@ On successful log in:-
 ![image](https://user-images.githubusercontent.com/64597962/80729734-4cb26800-8b26-11ea-80b3-c25a00108f95.png)
 
 
+![image](https://user-images.githubusercontent.com/64597962/80730137-d2ceae80-8b26-11ea-921d-6413689705a4.png)
+
+
+![image](https://user-images.githubusercontent.com/64597962/80730189-e417bb00-8b26-11ea-84ca-509729dbca43.png)
+
+
+![image](https://user-images.githubusercontent.com/64597962/80730218-eda12300-8b26-11ea-956a-3ad67a82c04a.png)
 
 
 
